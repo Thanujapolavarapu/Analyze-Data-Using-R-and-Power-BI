@@ -6,7 +6,7 @@ Data : Title, genre, studio, profitability and ratings for movies released 2007-
 Source: https://www.informationisbeautiful.net/data/,  https://public.tableau.com/app/resources/sample-data
 
 Here I used raw data set listing the top hollywoods most profitable stories.As the given data is inconsistent, I'm using R(postIt Cloud) to analyze and cleanze the data.
-While analyzing I checked for duplicates, missing values and outliers. Attaching the R script below for reference.
+While analyzing I checked for duplicates, missing values and outliers.
 
 VISUAL REPRESENTATION USING POWER BI:
 After extracting the clean data from R, I have used Power BI tool for visual representation of data.
