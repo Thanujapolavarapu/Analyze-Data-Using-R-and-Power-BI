@@ -17,5 +17,7 @@ So our main aim as per client request are to find:
 • The audience scores for each film
 • The profitability per studio 
 • The worldwide gross per genre
+
+Specifications: For the dashboard, the company would like you to use their brand colors which are blue, green and brown. You can use light or dark shades of each color. For example, light blue and dark blue are acceptable. 
   
   
