@@ -18,6 +18,6 @@ So our main aim as per client request are to find:
 • The profitability per studio 
 • The worldwide gross per genre
 
-Specifications: For the dashboard, the company would like you to use their brand colors which are blue, green and brown. You can use light or dark shades of each color. For example, light blue and dark blue are acceptable. 
+Specifications: For the dashboard, the company would like to use their brand colors which are blue, green and brown.Can use light or dark shades of each color. For example, light blue and dark blue are acceptable. 
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/116027782/211313859-de687532-b867-46a2-bb73-cf9e1485ec5e.png)
