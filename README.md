@@ -21,7 +21,3 @@ So our main aim as per client request are to find:
 Specifications: For the dashboard, the company would like you to use their brand colors which are blue, green and brown. You can use light or dark shades of each color. For example, light blue and dark blue are acceptable. 
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/116027782/211313859-de687532-b867-46a2-bb73-cf9e1485ec5e.png)
-
-  
-  
-![Screenshot (156)](https://user-images.githubusercontent.com/116027782/211313905-eb25eb24-1e01-4940-b198-a18e580d3019.png)
